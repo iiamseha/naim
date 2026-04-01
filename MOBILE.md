@@ -206,7 +206,7 @@ Style it consistently with the existing inputs and dark mode support.
 | Text Input / Output | 10 |
 | Dark Mode | 5 |
 | Navigation (Multi-Screen) | 15 |
-| Local Storage (AsyncStorage) | 20 |
+| Local Storage (AsyncStorage) | 20 | 
 | Search Functionality | 10 |
 | **TOTAL** | **65 kg** |
 
