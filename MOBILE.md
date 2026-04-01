@@ -19,7 +19,7 @@
 | Metric | Value |
 | --- | --- |
 | Total Iterations | 6 |
-| Total Weight (kg) | 65 |
+| Total Weight (kg) | 95 |
 | Total Time (min) | 90 |
 | Failed Attempts | 1 |
 
